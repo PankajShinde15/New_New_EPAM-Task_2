@@ -1,6 +1,6 @@
 Shreyash Padeer 321049
+Aishwarya Shukla 324002
 Makarand Khiste 332075
-Siddharth Sonawane 332068
 Prathamesh Lawand 371031
 Tanmay_kadam_321029
 Siddharth Sonawane 332068
@@ -47,11 +47,19 @@ Pankaj Shinde 324046
 
 
 
+=======
+>>>>>>> d73756cf12f7e3d21b778e4accc440caaa19fd2b
 
 
 
+Saloni Wagh 332073
 
 
+Sakshi Aherkar 324004
+Saloni Wagh 332073
+Vinayak Pawar 333043
+Sakshi Aherkar 324004
+Ajay Karve 332028
 
 
 
@@ -60,27 +68,31 @@ Deesha Gosavi 323017
 
 
 
+Tanmay_kadam_321029
+Siddharth Sonawane 332068
+Prathamesh Lawand 371031
+Pratik Rathod 321056
+
+
+Siddharth Sonawane 332068
 
 
 
 
 
+nandini achugatla_333073
 
 
 
 
+Sakshi Bihani 372007
 
 
-
-
-
-
-
-
-
-
-
+Deesha Gosavi 323017
+Deesha Gosavi 323017
+Deesha Gosavi 323017
 Netal Daga_371016
+<<<<<<< HEAD
 
 
 
@@ -122,3 +134,6 @@ Netal Daga_371016
 
 
 >>>>>>> 3708ece9b1a070316bd1c7ca894ce7217d9c738f
+=======
+Sakshi Bihani 372007
+>>>>>>> d73756cf12f7e3d21b778e4accc440caaa19fd2b
